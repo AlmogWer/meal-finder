@@ -18,7 +18,7 @@ Search or generate random meals from API
 ## Screenshots
 
 ![](img/Capture.PNG "Home Page")
-![](img/Capture 2.PNG "Certain meal")
+![](img/Capture2.PNG "Certain meal")
 
 ## Author
 
